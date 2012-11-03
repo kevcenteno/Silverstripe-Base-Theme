@@ -18,7 +18,8 @@
 		<div id="Main">
 			<% include Header %>
 			<div id="ContentContainer">
-				$Layout		
+				$Layout
+				$Form 
 			</div>
 			<% include Footer %>
 		</div>
